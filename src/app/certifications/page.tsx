@@ -29,7 +29,7 @@ const Certifications = () => {
     {
       title: "AI for Everyone",
       provider: "Coursera (DeepLearning.AI)",
-      date: "",
+      date: "Feb 2024",
       description: "A non-technical course designed to help understand AI technologies and their potential business applications.",
       details: "Feb 2024",
       link: "https://www.coursera.org/account/accomplishments/verify/PH5MQRSSK23M",
