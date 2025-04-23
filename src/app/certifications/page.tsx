@@ -20,7 +20,7 @@ const Certifications = () => {
     {
       title: "Data Science for Engineers",
       provider: "NPTEL",
-      date: "Mar 2023",
+      date: "Mar 2025",
       description: "A course on R Programming, Statistics and its applications, and Linear Algebra. Earned Silver certification with Top 5%ile.",
       details: "This course provided foundational knowledge of statistical methods, data analysis, and R programming for engineering applications.",
       link: "https://internalapp.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS20S63640365301321614",
@@ -31,14 +31,14 @@ const Certifications = () => {
       provider: "Coursera (DeepLearning.AI)",
       date: "",
       description: "A non-technical course designed to help understand AI technologies and their potential business applications.",
-      details: "",
+      details: "Feb 2024",
       link: "https://www.coursera.org/account/accomplishments/verify/PH5MQRSSK23M",
       skills: "Deep Learning, Machine Learning, Data Science Workflows, AI Strategy"
     },
     {
       title: "Introduction to Generative AI",
       provider: "Coursera (Google Cloud)",
-      date: "",
+      date: "Jan 2024",
       description: "An introductory course that covers the fundamentals of generative AI and its various applications.",
       details: "",
       link: "https://www.coursera.org/account/accomplishments/verify/6FTCALHG5RTW",
@@ -47,7 +47,7 @@ const Certifications = () => {
     {
       title: "Big Data, Artificial Intelligence, and Ethics",
       provider: "Coursera",
-      date: "",
+      date: "Mar 2024",
       description: "This course covers the intersection of big data, AI technologies, and the ethical considerations surrounding their use in real-world applications.",
       details: "",
       link: "https://www.coursera.org/account/accomplishments/verify/QHKXQ9FE5RF3",
@@ -56,7 +56,7 @@ const Certifications = () => {
     {
       title: "Data Analysis with Python",
       provider: "Coursera",
-      date: "",
+      date: "Feb 2024",
       description: "This course teaches how to analyze data using Python, including techniques such as data cleaning, exploration, and visualization, using popular libraries.",
       details: "",
       link: "https://www.coursera.org/account/accomplishments/verify/92567EMUWKAQ",
