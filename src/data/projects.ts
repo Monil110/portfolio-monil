@@ -1,11 +1,7 @@
 import { IProject } from "./types"
 import cfstress from "@/assets/projectImages/cfstress.png"
 import codegeass from "@/assets/projectImages/codegeass.png"
-import smartskill_studio from "@/assets/projectImages/smartskill_studio.png"
-import bookstation from "@/assets/projectImages/bookstation.png"
-import blog from "@/assets/projectImages/blog.png"
 import chatbot from "@/assets/projectImages/chatbot.png"
-import key_value_cache from "@/assets/projectImages/key_value_cache.png";
 
 const projects: Array<IProject> = [
   {
