@@ -12,19 +12,19 @@ const projects: Array<IProject> = [
     title: "CF Stress",
     description: "Community driven, highly customizable, no-code tool to stress test Codeforces problems. Frontend - React, Backend - Golang, Database - MongoDB",
     thumbnail: cfstress,
-    githubLink: "https://github.com/shivam-bhadani/CF-Stress-Backend"
+    githubLink: ""
   },
   {
     title: "Code Geass",
     description: "Developed a high-performing coding website, enabling users to improve algorithmic problem-solving skills. Frontend - React, Backend - Nodejs, Database - MongoDB",
     thumbnail: codegeass,
-    githubLink: "https://github.com/shivam-bhadani/Code-Geass-Backend"
+    githubLink: ""
   },
   {
     title: "Realtime Chatbot",
     description: "Developed Realtime Chatbot that performs client queries and integrated Socket-io in chat server. Frontend - HTML, CSS, JS. Backend - Nodejs. Database - MongoDB",
     thumbnail: chatbot,
-    githubLink: "https://github.com/shivam-bhadani/Chatbot"
+    githubLink: ""
   },
 ]
 
