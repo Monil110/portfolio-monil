@@ -1,27 +1,41 @@
 import { IProject } from "./types"
-import cfstress from "@/assets/projectImages/cfstress.png"
-import codegeass from "@/assets/projectImages/codegeass.png"
-import chatbot from "@/assets/projectImages/chatbot.png"
+import quarks from "@/assets/projectImages/quarks.png"
+import bytebuddy from "@/assets/projectImages/bytebuddy.png"
+import ems from "@/assets/projectImages/ems.png"
+import shuddh from "@/assets/projectImages/shuddh.png"
+import clubverse from "@/assets/projectImages/clubverse.png"
 
 const projects: Array<IProject> = [
   {
-    title: "CF Stress",
-    description: "Community driven, highly customizable, no-code tool to stress test Codeforces problems. Frontend - React, Backend - Golang, Database - MongoDB",
-    thumbnail: cfstress,
+    title: "Quarks Finance",
+    description: "A finance platform for stock market simulations, strategy building, AI investment suggestions, and dashboards. React, TypeScript, Tailwind, Next.js, Python, SQLite.",
+    thumbnail: quarks,
+    githubLink: "https://github.com/carpeadiam/quarksFinanceFE"
+  },
+  {
+    title: "Byte Buddy",
+    description: "An AI assistant for RVCE students using RAG with LangChain, FAISS, Google Generative AI, and Streamlit. Helps answer college-related queries using PDF knowledge base.",
+    thumbnail: bytebuddy,
     githubLink: ""
   },
   {
-    title: "Code Geass",
-    description: "Developed a high-performing coding website, enabling users to improve algorithmic problem-solving skills. Frontend - React, Backend - Nodejs, Database - MongoDB",
-    thumbnail: codegeass,
-    githubLink: ""
+    title: "University Exam Management & Scheduling System",
+    description: "Role-based web app for managing courses, enrollments, and exam timetables. Uses Graph Coloring, Genetic Algorithm, Flask, MongoDB, Next.js.",
+    thumbnail: ems,
+    githubLink: "https://github.com/Joseph25Rejo/EMS"
   },
   {
-    title: "Realtime Chatbot",
-    description: "Developed Realtime Chatbot that performs client queries and integrated Socket-io in chat server. Frontend - HTML, CSS, JS. Backend - Nodejs. Database - MongoDB",
-    thumbnail: chatbot,
-    githubLink: ""
+    title: "Shuddh – Arduino Based Milk Purity Tester",
+    description: "AI-powered Arduino project for milk purity testing using sensors and kNN ML model. Built with Python, Arduino, ML, IoT.",
+    thumbnail: shuddh,
+    githubLink: "https://github.com/Monil110/Shuddh"
   },
+  {
+    title: "ClubVerse - College Club Management System",
+    description: "Flutter app to manage college clubs with event planning, messaging, announcements, and analytics. Backend - Firebase.",
+    thumbnail: clubverse,
+    githubLink: "https://github.com/Monil110/ClubVerse-College-Club-Management-app"
+  }
 ]
 
 export default projects
