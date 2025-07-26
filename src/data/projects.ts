@@ -16,7 +16,7 @@ const projects: Array<IProject> = [
     title: "Byte Buddy",
     description: "An AI assistant for RVCE students using RAG with LangChain, FAISS, Google Generative AI, and Streamlit. Helps answer college-related queries using PDF knowledge base.",
     thumbnail: bytebuddy,
-    githubLink: ""
+    githubLink: "https://github.com/Monil110/Byte-Buddy"
   },
   {
     title: "University Exam Management & Scheduling System",
