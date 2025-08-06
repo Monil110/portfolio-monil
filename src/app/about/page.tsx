@@ -21,17 +21,17 @@ const About = () => {
 
   const ACHIEVEMENTS = [
     {
-      text: "Pupil on Codeforces",
+      text: "Pupil on Codeforces with 1200+ rating.",
       link: "https://codeforces.com/profile/daddymonil",
       logo: "/codeforces.svg"
     },
     {
-      text: "Achieved Highest Rating of 1620 (3 Star) on CodeChef",
+      text: "Achieved Highest Rating of 1623 (3 Star) on CodeChef with gloabal rank 834",
       link: "https://www.codechef.com/users/monill",
       logo: "/codechef.svg"
     },
     {
-      text: "Rating 1500+ in leetcode",
+      text: "Rating 1500+ in leetcode with 200+ questions solved.",
       link: "https://leetcode.com/u/daddymonil/",
       logo: "/leetcode.svg"
     }
@@ -42,7 +42,7 @@ const About = () => {
       institution: "RV College of Engineering",
       location: "Bangalore, IN",
       degree: "BE Artificial Intelligence and Machine Learning",
-      performance: "GPA: 9.36",
+      performance: "GPA: 9.40",
       duration: "2023 - 2027"
     },
     {
